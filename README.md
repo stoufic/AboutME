@@ -28,13 +28,11 @@ Alongside my personal work, I also **lead a small team of up to 5 developers/des
 ---
 
 ## 🌍 Vision  
-I’m driven to bridge **software engineering, AI, and cloud solutions** to solve problems that matter — whether it’s **personalizing education**, **forecasting energy demand**, or **helping businesses scale with automation**.  
+I’m driven by creativity and a constant desire to innovate. Whether it’s refining existing systems or imagining something entirely new, I’m always working on fresh solutions and experimenting with ideas that push boundaries. For me, building software isn’t just about solving problems — it’s about creating possibilities.  
+
 
 ---
 
-## 📫 Let’s Connect  
-- LinkedIn: [linkedin.com/in/toufic-saleh](#)  
-- GitHub: You’re already here 👀  
 
 
 
