@@ -35,6 +35,6 @@ I’m driven to bridge **software engineering, AI, and cloud solutions** to solv
 ## 📫 Let’s Connect  
 - LinkedIn: [linkedin.com/in/toufic-saleh](#)  
 - GitHub: You’re already here 👀  
-- Portfolio: *(Coming soon…)*  
+
 
 
