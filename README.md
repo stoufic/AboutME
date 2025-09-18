@@ -1,4 +1,4 @@
-# AboutME# 👋 Hi, I’m Toufic Saleh  
+# AboutME 👋 Hi, I’m Toufic Saleh  
 
 I’m a **Computer Science senior at Virginia Tech** with a passion for building **real-world solutions through software, AI, and cloud architecture**. My journey spans from creating lightweight web extensions that help students save hours, to developing **full-stack applications, CI/CD pipelines, forecasting dashboards, and scalable cloud systems**.  
 
@@ -26,8 +26,9 @@ Alongside my personal work, I also **lead a small team of up to 5 developers/des
 - **50fty (Freelance Brand)** – Built and scaled solutions for clients — from automation bots to payment apps — transforming solo freelancing into a collaborative high-ticket project team.  
 
 
-##Please Note
+## Please Note
 The projects presented in this github are all fundamental starter files; they were not used for production at all. The reason for publication was to preview my team's and my innovative thinking.
+
 ---
 
 ## 🌍 Vision  
