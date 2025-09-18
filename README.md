@@ -25,6 +25,9 @@ Alongside my personal work, I also **lead a small team of up to 5 developers/des
 - **Ad Performance Fusion Tool** – Merging marketing data with AI predictions to optimize campaigns by demographic, time, and platform.  
 - **50fty (Freelance Brand)** – Built and scaled solutions for clients — from automation bots to payment apps — transforming solo freelancing into a collaborative high-ticket project team.  
 
+
+##Please Note
+The projects presented in this github are all fundamental starter files; they were not used for production at all. The reason for publication was to preview my team's and my innovative thinking.
 ---
 
 ## 🌍 Vision  
